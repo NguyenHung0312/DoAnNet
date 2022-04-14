@@ -53,9 +53,10 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomsDetail\CustomButton.cs">
+    <Compile Include="CustomsDetail\CusBtn.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Datatest.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -41,13 +41,14 @@
             this.cusBtn1.FlatAppearance.BorderSize = 0;
             this.cusBtn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cusBtn1.ForeColor = System.Drawing.Color.White;
-            this.cusBtn1.Location = new System.Drawing.Point(531, 455);
+            this.cusBtn1.Location = new System.Drawing.Point(412, 211);
             this.cusBtn1.Name = "cusBtn1";
             this.cusBtn1.Size = new System.Drawing.Size(150, 40);
             this.cusBtn1.TabIndex = 0;
             this.cusBtn1.Text = "cusBtn1";
             this.cusBtn1.TextColor = System.Drawing.Color.White;
             this.cusBtn1.UseVisualStyleBackColor = false;
+            this.cusBtn1.Click += new System.EventHandler(this.cusBtn1_Click);
             // 
             // FormOrder
             // 

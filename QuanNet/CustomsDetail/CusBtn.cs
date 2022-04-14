@@ -9,7 +9,7 @@ using System.Drawing.Drawing2D;
 using System.ComponentModel;
 namespace QuanNet.CustomsDetail
 {
-    public class CustomButton:Button
+    public class CusBtn:Button
     {
         //Fields
         private int borderSize = 0;
@@ -62,7 +62,7 @@ namespace QuanNet.CustomsDetail
             set { this.ForeColor = value; }
         }
         //Constructor
-        public CustomButton()
+        public CusBtn()
         {
             this.FlatStyle = FlatStyle.Flat;
             this.FlatAppearance.BorderSize = 0;
