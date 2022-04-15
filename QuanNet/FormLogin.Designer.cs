@@ -38,7 +38,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(403, 553);
+            this.panel1.Size = new System.Drawing.Size(403, 622);
             this.panel1.TabIndex = 0;
             // 
             // panel2
@@ -47,14 +47,14 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(403, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(779, 553);
+            this.panel2.Size = new System.Drawing.Size(751, 622);
             this.panel2.TabIndex = 1;
             // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1182, 553);
+            this.ClientSize = new System.Drawing.Size(1154, 622);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "FormLogin";

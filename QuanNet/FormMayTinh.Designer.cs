@@ -73,7 +73,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1000, 176);
+            this.dataGridView1.Size = new System.Drawing.Size(1130, 201);
             this.dataGridView1.TabIndex = 0;
             // 
             // panel1
@@ -101,7 +101,7 @@
             this.panel1.Controls.Add(this.iconButton1);
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(464, 378);
+            this.panel1.Size = new System.Drawing.Size(531, 378);
             this.panel1.TabIndex = 1;
             // 
             // iconButton24
@@ -477,9 +477,9 @@
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.label1);
-            this.panel2.Location = new System.Drawing.Point(514, 12);
+            this.panel2.Location = new System.Drawing.Point(567, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(498, 378);
+            this.panel2.Size = new System.Drawing.Size(575, 378);
             this.panel2.TabIndex = 24;
             // 
             // button2
@@ -589,8 +589,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(55)))), ((int)(((byte)(55)))));
-            this.ClientSize = new System.Drawing.Size(1024, 597);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
+            this.ClientSize = new System.Drawing.Size(1154, 622);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dataGridView1);
